@@ -1,5 +1,5 @@
 # Power BI Parte 2
-📑 En este repositorio encontrarás el ejercicio de Power BI para el post <a href=" "> Power BI Parte 2 </a>  
+📑 En este repositorio encontrarás el ejercicio de Power BI para el post <a href="https://lauralpezb.medium.com/gu%C3%ADa-de-power-bi-parte-2-e0b0dde1f59c"> Power BI Parte 2 </a>  
 
 Los datos que se utilizaron para la visualización los puedes encontrar en Kaggle:
 - <a href="https://www.kaggle.com/shivamb/disney-movies-and-tv-shows"> Disey + </a> 
